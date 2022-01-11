@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjhall2011
-- 👀 I’m interested in ... gamiong and coding 
+- 👀 I’m interested in ... gaming and coding 
 - 🌱 I’m currently learning ...Github and Coding 
 - 💞️ I’m looking to collaborate on ... Projects 
 - 📫 How to reach me ... on github or slack
